@@ -5,8 +5,8 @@
 # 💫 About Me:
 Hi! I’m Md. Shabab Shahria, a passionate learner currently exploring the world of Machine Learning. I enjoy working with data, building intelligent systems, and understanding how algorithms can solve real-world problems. My goal is to grow my skills in ML, Python, and data analysis while creating projects that make technology smarter and more useful.
 
-
-<p align="right" > <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTd4cXB5eWk5MjQ0aHk4dXM5MzM2OGt0M2J1Z3RmajVzOG5kdGRxcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HscDLzkO8EOTmgkhQP/giphy.gif" width="350" height="350"/> </p>
+<p align="left" > <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eW5jZDgzbzJ3Y2Zmb204Mzl1c2JveTQwNDBpZHU0aGtvZ2N0dmoxNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/KAq5w47R9rmTuvWOWa/giphy.gif" width="350" height="350"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTd4cXB5eWk5MjQ0aHk4dXM5MzM2OGt0M2J1Z3RmajVzOG5kdGRxcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HscDLzkO8EOTmgkhQP/giphy.gif" width="350" height="350"/> </p>
 
  # 📊 GitHub Stats:
 
