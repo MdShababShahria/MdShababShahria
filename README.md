@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Md. Shabab Shahria</h1>
 <h3 align="center">A passionate ML developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdshababshahria&label=Profile%20views&color=0e75b6&style=flat" alt="mdshababshahria" /> </p>
-https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTd4cXB5eWk5MjQ0aHk4dXM5MzM2OGt0M2J1Z3RmajVzOG5kdGRxcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HscDLzkO8EOTmgkhQP/giphy.gif
+<p align="right"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTd4cXB5eWk5MjQ0aHk4dXM5MzM2OGt0M2J1Z3RmajVzOG5kdGRxcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HscDLzkO8EOTmgkhQP/giphy.gif" /> </p>
 
 
-Here are some ideas to get you started:
+ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ML Projects.
 - 🌱 I’m currently learning ML.
